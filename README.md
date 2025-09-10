@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Machine Learning Notebooks
 ==========================
 
@@ -88,3 +89,6 @@ See [INSTALL.md](INSTALL.md)
 I would like to thank everyone [who contributed to this project](https://github.com/ageron/handson-ml/graphs/contributors), either by providing useful feedback, filing issues or submitting Pull Requests. Special thanks go to Haesun Park and Ian Beauregard who reviewed every notebook and submitted many PRs, including help on some of the exercise solutions. Thanks as well to Steven Bunkley and Ziembla who created the `docker` directory, and to github user SuperYorio who helped on some exercise solutions.
 
 </details>
+=======
+# handson-ml-master
+>>>>>>> 640b94cd808faedd8138ba1174b4eb630277a37c
